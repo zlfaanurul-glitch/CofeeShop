@@ -1,16 +1,6 @@
-# cofeeshop
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5c33ee5398994e0e913ba15b0c0e34b1](https://github.com/user-attachments/assets/f48b4c22-201e-4a7f-a407-633b09dbff1f)
+![07a52b4a8a2a4fa48eb30c967637e303](https://github.com/user-attachments/assets/315e286c-009d-46d0-a3eb-beaec3d63d31)
+![215a7d7d5baf4ef1b65b02825bd9f4d4](https://github.com/user-attachments/assets/8b21ba2f-7d47-4a57-b140-30d2d694103a)
+![7f7110a3101a4654b445ba0e82985a0b](https://github.com/user-attachments/assets/2e2581d8-121f-492a-b0cd-c45a3e1f64b8)
+![5c33ee5398994e0e913ba15b0c0e34b1](https://github.com/user-attachments/assets/454e03e7-4bdf-44d1-89bf-b1162dba13fb)
+![5c33ee5398994e0e913ba15b0c0e34b1](https://github.com/user-attachments/assets/7373da5b-97a1-45e8-899d-72e3c5c050bc)
