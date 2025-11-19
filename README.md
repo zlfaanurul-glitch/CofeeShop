@@ -1,6 +1,8 @@
+Coffe Shop App
 Anggota kelompok : 1. silmi Maulida
                    2. Zuelfa Nurulfathiyah ahmad
 Berikut saya lampirkan link google drive yg berisi video demo serta laporan didalamnya
+https://drive.google.com/drive/folders/1VKfCRK-nuDCYDcoO9Q17VMKL-iY_QoX9?usp=drive_link
 
 
 ![5c33ee5398994e0e913ba15b0c0e34b1](https://github.com/user-attachments/assets/f48b4c22-201e-4a7f-a407-633b09dbff1f)
